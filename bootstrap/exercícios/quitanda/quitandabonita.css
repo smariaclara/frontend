@@ -1,0 +1,19 @@
+body{
+    background-image: url(./dispensa/fundo.png);
+    height: 100vh;
+}
+.laemcima{
+    background-color: #5eaa5f;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.red{
+    color: white;
+    background-color: #EB222A;
+}
+.uva{
+    color: white;
+    background-color: #925CA7;
+}
